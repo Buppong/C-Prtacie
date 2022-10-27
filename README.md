@@ -6,5 +6,9 @@
 2.C++공부
 -기본적인 구조형 ,클래스 , typedef 스마트포인터등등
 
-3.tcp socket통신 및 오목게임 , 야구게임만들기
+3.SOCKET통신 프로그램
+- client 
+- server
 
+4. 오목게임 
+준비: boost.asio 라이브러리를 설치이후에 
