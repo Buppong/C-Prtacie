@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{EB1DA962-7770-4A4D-A684-FCF9270ABA47}</ProjectGuid>
-    <RootNamespace>Server</RootNamespace>
+    <ProjectGuid>{0D846545-8744-419B-9862-9B8D6D211069}</ProjectGuid>
+    <RootNamespace>Client</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
